@@ -11,5 +11,5 @@ Want to practice your rock, paper, scissors skills?
 
 Click on the link below! It will prompt you two questions. Simply answer the questions and follow the instructions to reveal the answer!
 
-Link: [Magic Eight Ball](http://127.0.0.1:5500/index.html "Magic Eight Ball")
+Link: [Rock Paper Scissors](https://hasonnn.github.io/rock-paper-scissors/ "Rock Paper Scissors")
 
