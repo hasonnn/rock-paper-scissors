@@ -1,4 +1,4 @@
-userInput = prompt("Choose rock, paper or scissors");
+let userInput = prompt("Choose rock, paper or scissors");
 
 const getUserChoice = (userInput) => {
     userInput = userInput.toLowerCase();
