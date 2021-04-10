@@ -6,7 +6,7 @@ const getUserChoice = (userInput) => {
       return userInput;
     } else {
       console.log('Please only choose rock, paper or scissors!');
-      getUserChoice()
+      getUserChoice(userInput)
     };
   }; 
   
