@@ -1,6 +1,5 @@
-let userInput = prompt("Choose rock, paper or scissors");
-
 const getUserChoice = (userInput) => {
+    userInput = prompt("Choose rock, paper or scissors");
     userInput = userInput.toLowerCase();
     if (userInput === 'rock' || userInput === 'paper' || userInput === 'scissors') {
       return userInput;
